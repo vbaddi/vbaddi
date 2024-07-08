@@ -1,4 +1,7 @@
-## Hi there 👋
+### Hi, I'm Vinayak! 👋
+I'm a machine learning engineer in Qualcomm India (CR&D) 
+
+- 📫 Email:  quic_vbaddi@quicinc.com
 
 <!--
 **vbaddi/vbaddi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
